@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-email-template-builder",
+  "version": "1.0.0",
+  "description": "One Dionys (Email Template Builder) - A tool to visually create and manage email templates, making it easy to create and send emails in web applications.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-email-template-builder.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "email-template-builder"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-email-template-builder/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-email-template-builder#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
