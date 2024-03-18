@@ -45,6 +45,7 @@ console.log(emailTemplate);
 ## 📆 Release Date
 
 * v1.0.0 : 18 March 2024
+* v1.0.1 : 18 March 2024
 
 ## 🧑 Author
 
