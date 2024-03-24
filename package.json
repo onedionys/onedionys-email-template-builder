@@ -1,6 +1,6 @@
 {
   "name": "onedionys-email-template-builder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Email Template Builder) - A tool to visually create and manage email templates, making it easy to create and send emails in web applications.",
   "main": "src/index.js",
   "directories": {
